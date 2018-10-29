@@ -25,8 +25,13 @@ Rubric:
 6. Both images are displayed at the end.
 7. Calculation times and speedup obtained are incuded in the Readme.
 
-**NOTES**
-
-1. Did not upload anything.
-
-**Grade: 0**
+# Results
+| Image | CPU (ms) | GPU (ms) | Speedup |
+|:---:|:---:|:---:|:---:|
+| dog1 | 290.79 | 0.021553 | 13491.85 |
+| dog2 | 293.51 | 0.023051 | 12733.07 |
+| dog3 | 290.15 | 0.025182 | 11522.11 |
+| scenery | 9.36 | 0.015781 | 593.11 |
+| woman1 | 236.39 | 0.020637 | 11454.66 |
+| woman2 | 235.83 | 0.024085 | 9791.57 |
+| woman3 | 238.09 | 0.022178 | 10735.41 |
